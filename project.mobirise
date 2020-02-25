@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-17_1256",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1302,7 +1302,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "",
+                "caption": "Belgia",
                 "active": true
               },
               {
@@ -1315,7 +1315,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Austria",
                 "active": false
               },
               {
@@ -1328,7 +1328,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Węgry",
                 "active": false
               },
               {
@@ -1341,7 +1341,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Węgry",
                 "active": false
               },
               {
@@ -1354,7 +1354,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Belgia",
                 "active": false
               },
               {
@@ -1367,7 +1367,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Niemcy",
                 "active": false
               },
               {
@@ -1380,7 +1380,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Francja",
                 "active": false
               },
               {
@@ -1393,7 +1393,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Niemcy",
                 "active": false
               }
             ]
@@ -3226,7 +3226,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "",
+                "caption": "Belgium",
                 "active": true
               },
               {
@@ -3239,7 +3239,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Austria",
                 "active": false
               },
               {
@@ -3252,7 +3252,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Hungary",
                 "active": false
               },
               {
@@ -3265,7 +3265,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Hungary",
                 "active": false
               },
               {
@@ -3278,7 +3278,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Belgium",
                 "active": false
               },
               {
@@ -3291,7 +3291,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Germany",
                 "active": false
               },
               {
@@ -3304,7 +3304,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "France",
                 "active": false
               },
               {
@@ -3317,7 +3317,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Germany",
                 "active": false
               }
             ]
@@ -3893,7 +3893,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "",
+                "caption": "Belgien",
                 "active": true
               },
               {
@@ -3906,7 +3906,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Österreich",
                 "active": false
               },
               {
@@ -3919,7 +3919,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Ungarn",
                 "active": false
               },
               {
@@ -3932,7 +3932,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Ungarn",
                 "active": false
               },
               {
@@ -3945,7 +3945,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Belgien",
                 "active": false
               },
               {
@@ -3958,7 +3958,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Deutschland",
                 "active": false
               },
               {
@@ -3971,7 +3971,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Frankreich",
                 "active": false
               },
               {
@@ -3984,7 +3984,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
+                "caption": "Deutschland",
                 "active": false
               }
             ]
